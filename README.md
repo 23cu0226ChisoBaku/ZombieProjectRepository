@@ -27,5 +27,6 @@ https://github.com/user-attachments/assets/8439e283-82fd-4911-9057-119648d2c6de
 
 # 操作説明
 
-![image](https://github.com/user-attachments/assets/318cb790-cc0e-47c4-9e79-fc5c87f4d41a)
-![image](https://github.com/user-attachments/assets/c4036b0d-8a59-473b-9813-6c83a90b21e1)
+<img width="2807" height="1204" alt="操作説明_アクション" src="https://github.com/user-attachments/assets/343fe291-3505-4c1e-9ba9-b39ddfabd755" />
+<img width="2649" height="1178" alt="操作説明_エナジーリリースモード" src="https://github.com/user-attachments/assets/1d5ef518-7030-4477-af3e-dceac0cb4a7d" />
+
