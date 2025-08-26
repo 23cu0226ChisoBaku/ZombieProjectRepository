@@ -10,6 +10,9 @@
 Sourceーーーーーーーーーーーーーーー(担当箇所ソースコード)  
 ダウンロードURL.txtーーーーーーーー(実行ファイルとプロジェクトファイルのダウンロード先URL)  
 ENERGY_PANDEMIC解説ドキュメント.pdf
+
+# 実行ファイルURL  
+https://drive.google.com/drive/folders/11q-kjQRc6bZtFcrNgELgfNJhoy4PbG5F?usp=drive_link
  
 # ゲーム概要
 ・ゾンビがエナジーを利用し、ギミックを解く2Dアクションゲームです。  
