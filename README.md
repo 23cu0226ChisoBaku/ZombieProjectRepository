@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/11q-kjQRc6bZtFcrNgELgfNJhoy4PbG5F?usp=dri
 ・抵抗を乗り越えて、人類最後のシェルターを占領しよう！  
 
 # ゲーム動画
-https://github.com/user-attachments/assets/64e9282f-450b-4b92-b930-7cad11078e3d
+https://github.com/user-attachments/assets/2f43e72f-af08-425b-9fb4-f10de0f20dd2
 
 # 環境
 ・開発言語：C#(バージョン：C# 9)  
